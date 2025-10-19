@@ -14,7 +14,7 @@ Proyek ini bertujuan untuk melakukan analisis sentimen terhadap cuitan (tweet) d
 
 * Dataset dikumpulkan dari Twitter dengan kata kunci yang berkaitan dengan **Kilang Minyak Pertamina**.
 * Data berupa teks mentah (tweet) beserta metadata standar (id, waktu, dsb.).
-* Link Scraping Collab: https://colab.research.google.com/drive/1h0N0KzsQ5wl7W24B978YM3xbKfflhXJ_?usp=sharing
+* Link Scraping Collab: https://colab.research.google.com/drive/17Weo_LhSqpKEgRYedB-W46cdyxtUy-79?usp=sharing
 
 ### 2. Pembersihan Data (Case Folding)
 
